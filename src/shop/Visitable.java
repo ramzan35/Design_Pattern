@@ -1,4 +1,4 @@
-package main;
+package shop;
 
 /**
  * Created by MRamzan on 7/7/2017.

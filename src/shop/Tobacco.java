@@ -1,14 +1,14 @@
-package main;
-
+package shop;
 
 /**
  * Created by MRamzan on 7/7/2017.
  */
-class Liquor implements Visitable {
+
+class Tobacco implements Visitable {
 
     private double price;
 
-    Liquor(double item){
+    Tobacco(double item){
         price = item;
     }
 
