@@ -1,4 +1,4 @@
-package grocery;
+package visitorpattern.grocery;
 
 /**
  * Created by MRamzan on 7/7/2017.

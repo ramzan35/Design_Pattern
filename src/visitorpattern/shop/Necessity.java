@@ -1,14 +1,14 @@
-package shop;
+package visitorpattern.shop;
 
 /**
  * Created by MRamzan on 7/7/2017.
  */
 
-class Tobacco implements Visitable {
+class Necessity implements Visitable {
 
     private double price;
 
-    Tobacco(double item){
+    Necessity(double item){
         price = item;
     }
 
