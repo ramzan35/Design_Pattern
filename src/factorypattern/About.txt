@@ -1,0 +1,17 @@
+What is factory pattern
+=======================
+
+When a method returns one of several possible classes that shares a common super class.
+    Create a new enemy game.
+    Random number generator picks a number assigned to a specific enemy.
+    The Factory returns the enemy associated with that number.
+
+The class is chosen at run time.
+
+When to use a factory pattern
+
+When you don't know ahead of time what class object you need.
+When all of the potential classes are in the same subclass hierarchy
+To centralize class section code
+When you don't want the use to have to know every subclass
+To encapsulate object creation
